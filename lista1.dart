@@ -1,5 +1,6 @@
 void main() {  
    List<int> numeros = [10,20,30];  
+   print("JAN ADRIAN SOSA CORDERO 2208051281317 gpo 6-J");
    print("lista d numeros enteros: ");
    print(numeros);  
    print("Primer elemento: ${numeros[0]}");
